@@ -1,4 +1,4 @@
-## Hi there 👋- 🤔 I’m looking for help with ...# Hi there, I'm Mohamed 👋
+# Hi there, I'm Mohamed 👋
 
 🎓 **Communications & Electronics Engineering Student**  
 ☁️ **Aspiring Cloud & Network Engineer** | Passionate about AWS, Linux Systems, CCNA & Automation.
